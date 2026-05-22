@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="ascii-art-text.png" alt="FYCSARTHAK" width="600"/>
-</p>
-
-<p align="center">
+                                                                                                       
+██████ ██  ██ ▄█████ ▄█████ ▄████▄ █████▄  ██████ ██  ██ ▄████▄ ██ ▄█▀ 
+██▄▄    ▀██▀  ██     ▀▀▀▄▄▄ ██▄▄██ ██▄▄██▄   ██   ██████ ██▄▄██ ████   
+██       ██   ▀█████ █████▀ ██  ██ ██   ██   ██   ██  ██ ██  ██ ██ ▀█▄ 
+                                                                       
   <b>Bug Bounty Hunter · Penetration tester · Linux Enthusiast</b>
 </p>
 
