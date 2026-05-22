@@ -1,10 +1,12 @@
-<p align="center">                                                                      
+<p align="center">
+<pre>                                                                    
 ██████ ██  ██ ▄█████ ▄█████ ▄████▄ █████▄  ██████ ██  ██ ▄████▄ ██ ▄█▀ 
 ██▄▄    ▀██▀  ██     ▀▀▀▄▄▄ ██▄▄██ ██▄▄██▄   ██   ██████ ██▄▄██ ████   
 ██       ██   ▀█████ █████▀ ██  ██ ██   ██   ██   ██  ██ ██  ██ ██ ▀█▄ 
                                                                                                                                                                      
-                  </p>                                                                                                                                                       
-  <b>Bug Bounty Hunter · Penetration tester · Linux Enthusiast</b>
+                                                                                                                                                                     </pre>
+
+<b>Bug Bounty Hunter · Penetration tester · Linux Enthusiast</b>
 </p>
 
 ---
